@@ -1,0 +1,207 @@
+1	"Volunteer":
+		Class: Factor
+		Value: From 1 to 30
+2	"Activities_as_fact":
+		Class: Factor
+		Value: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"
+3	"Data_type":
+		Class: Factor 
+		Value: "TRAIN" , "TEST"
+4	"tBodyAcc-mean()-X":
+		Class: Numeric
+		Value: Mean of "tBodyAcc-mean()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+5	"tBodyAcc-mean()-Y"
+		Class: Numeric
+		Value: Mean of "tBodyAcc-mean()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+6	"tBodyAcc-mean()-Z"
+		Class: Numeric
+		Value: Mean of "tBodyAcc-mean()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+7	"tBodyAcc-std()-X"
+		Class: Numeric
+		Value: Mean of "tBodyAcc-std()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+8	"tBodyAcc-std()-Y"
+		Class: Numeric
+		Value: Mean of "tBodyAcc-std()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+9	"tBodyAcc-std()-Z"
+		Class: Numeric
+		Value: Mean of "tBodyAcc-std()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+10	"tGravityAcc-mean()-X"
+		Class: Numeric
+		Value: Mean of "tGravityAcc-mean()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+11	"tGravityAcc-mean()-Y"
+		Class: Numeric
+		Value: Mean of "tGravityAcc-mean()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+12	"tGravityAcc-mean()-Z"
+		Class: Numeric
+		Value: Mean of "tGravityAcc-mean()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+13	"tGravityAcc-std()-X"
+		Class: Numeric
+		Value: Mean of "tGravityAcc-std()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+14	"tGravityAcc-std()-Y"
+		Class: Numeric
+		Value: Mean of "tGravityAcc-std()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+15	"tGravityAcc-std()-Z"
+		Class: Numeric
+		Value: Mean of "tGravityAcc-std()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+16	"tBodyAccJerk-mean()-X"
+		Class: Numeric
+		Value: Mean of "tBodyAccJerk-mean()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+17	"tBodyAccJerk-mean()-Y"
+		Class: Numeric
+		Value: Mean of "tBodyAccJerk-mean()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+18	"tBodyAccJerk-mean()-Z"
+		Class: Numeric
+		Value: Mean of "tBodyAccJerk-mean()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+19	"tBodyAccJerk-std()-X"
+		Class: Numeric
+		Value: Mean of "tBodyAccJerk-std()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+20	"tBodyAccJerk-std()-Y"
+		Class: Numeric
+		Value: Mean of "tBodyAccJerk-std()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+21	"tBodyAccJerk-std()-Z"
+		Class: Numeric
+		Value: Mean of "tBodyAccJerk-std()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+22	"tBodyGyro-mean()-X"
+		Class: Numeric
+		Value: Mean of "tBodyGyro-mean()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+23	"tBodyGyro-mean()-Y"
+		Class: Numeric
+		Value: Mean of "tBodyGyro-mean()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+24	"tBodyGyro-mean()-Z"
+		Class: Numeric
+		Value: Mean of "tBodyGyro-mean()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+25	"tBodyGyro-std()-X"
+		Class: Numeric
+		Value: Mean of "tBodyGyro-std()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+26	"tBodyGyro-std()-Y"
+		Class: Numeric
+		Value: Mean of "tBodyGyro-std()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+27	"tBodyGyro-std()-Z"
+		Class: Numeric
+		Value: Mean of "tBodyGyro-std()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+28	"tBodyGyroJerk-mean()-X"
+		Class: Numeric
+		Value: Mean of "tBodyGyroJerk-mean()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+29	"tBodyGyroJerk-mean()-Y"
+		Class: Numeric
+		Value: Mean of "tBodyGyroJerk-mean()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+30	"tBodyGyroJerk-mean()-Z"
+		Class: Numeric
+		Value: Mean of "tBodyGyroJerk-mean()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+31	"tBodyGyroJerk-std()-X"
+		Class: Numeric
+		Value: Mean of "tBodyGyroJerk-std()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+32	"tBodyGyroJerk-std()-Y"
+		Class: Numeric
+		Value: Mean of "tBodyGyroJerk-std()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+33	"tBodyGyroJerk-std()-Z"
+		Class: Numeric
+		Value: Mean of "tBodyGyroJerk-std()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+34	"tBodyAccMag-mean()"
+		Class: Numeric
+		Value: Mean of "tBodyAccMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+35	"tBodyAccMag-std()"
+		Class: Numeric
+		Value: Mean of "tBodyAccMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+36	"tGravityAccMag-mean()"
+		Class: Numeric
+		Value: Mean of "tGravityAccMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+37	"tGravityAccMag-std()"
+		Class: Numeric
+		Value: Mean of "tGravityAccMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+38	"tBodyAccJerkMag-mean()"
+		Class: Numeric
+		Value: Mean of "tBodyAccJerkMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+39	"tBodyAccJerkMag-std()"
+		Class: Numeric
+		Value: Mean of "tBodyAccJerkMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+40	"tBodyGyroMag-mean()"
+		Class: Numeric
+		Value: Mean of "tBodyGyroMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+41	"tBodyGyroMag-std()"
+		Class: Numeric
+		Value: Mean of "tBodyGyroMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+42	"tBodyGyroJerkMag-mean()"
+		Class: Numeric
+		Value: Mean of "tBodyGyroJerkMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+43	"tBodyGyroJerkMag-std()"
+		Class: Numeric
+		Value: Mean of "tBodyGyroJerkMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+44	"fBodyAcc-mean()-X"
+		Class: Numeric
+		Value: Mean of "fBodyAcc-mean()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+45	"fBodyAcc-mean()-Y"
+		Class: Numeric
+		Value: Mean of "fBodyAcc-mean()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+46	"fBodyAcc-mean()-Z"
+		Class: Numeric
+		Value: Mean of "fBodyAcc-mean()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+47	"fBodyAcc-std()-X"
+		Class: Numeric
+		Value: Mean of "fBodyAcc-std()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+48	"fBodyAcc-std()-Y"
+		Class: Numeric
+		Value: Mean of "fBodyAcc-std()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+49	"fBodyAcc-std()-Z"
+		Class: Numeric
+		Value: Mean of "fBodyAcc-std()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+50	"fBodyAccJerk-mean()-X"
+		Class: Numeric
+		Value: Mean of "fBodyAccJerk-mean()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+51	"fBodyAccJerk-mean()-Y"
+		Class: Numeric
+		Value: Mean of "fBodyAccJerk-mean()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+52	"fBodyAccJerk-mean()-Z"
+		Class: Numeric
+		Value: Mean of "fBodyAccJerk-mean()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+53	"fBodyAccJerk-std()-X"
+		Class: Numeric
+		Value: Mean of "fBodyAccJerk-std()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+54	"fBodyAccJerk-std()-Y"
+		Class: Numeric
+		Value: Mean of "fBodyAccJerk-std()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+55	"fBodyAccJerk-std()-Z"
+		Class: Numeric
+		Value: Mean of "fBodyAccJerk-std()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+56	"fBodyGyro-mean()-X"
+		Class: Numeric
+		Value: Mean of "fBodyGyro-mean()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+57	"fBodyGyro-mean()-Y"
+		Class: Numeric
+		Value: Mean of "fBodyGyro-mean()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+58	"fBodyGyro-mean()-Z"
+		Class: Numeric
+		Value: Mean of "fBodyGyro-mean()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+59	"fBodyGyro-std()-X"
+		Class: Numeric
+		Value: Mean of "fBodyGyro-std()-X" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+60	"fBodyGyro-std()-Y"
+		Class: Numeric
+		Value: Mean of "fBodyGyro-std()-Y" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+61	"fBodyGyro-std()-Z"
+		Class: Numeric
+		Value: Mean of "fBodyGyro-std()-Z" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+62	"fBodyAccMag-mean()"
+		Class: Numeric
+		Value: Mean of "fBodyAccMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+63	"fBodyAccMag-std()"
+		Class: Numeric
+		Value: Mean of "fBodyAccMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+64	"fBodyBodyAccJerkMag-mean()"
+		Class: Numeric
+		Value: Mean of "fBodyBodyAccJerkMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+65	"fBodyBodyAccJerkMag-std()"
+		Class: Numeric
+		Value: Mean of "fBodyBodyAccJerkMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+66	"fBodyBodyGyroMag-mean()"
+		Class: Numeric
+		Value: Mean of "fBodyBodyGyroMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+67	"fBodyBodyGyroMag-std()"
+		Class: Numeric
+		Value: Mean of "fBodyBodyGyroMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+68	"fBodyBodyGyroJerkMag-mean()"
+		Class: Numeric
+		Value: Mean of "fBodyBodyGyroJerkMag-mean()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
+69	"fBodyBodyGyroJerkMag-std()"
+		Class: Numeric
+		Value: Mean of "fBodyBodyGyroJerkMag-std()" from complete dataset based on each Volunteer, Activities_as_fact & Data_type
